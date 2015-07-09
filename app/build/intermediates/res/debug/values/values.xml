@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/ramki/StudioProjects/pocket-pinalytics/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="planets_array">
+        <item>Core Metrics</item>
+        <item>Pinlens</item>
+    </string-array>
+    <string name="action_websearch">Web search</string>
+    <string name="app_name">Pocket Pinalytics</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="dau_label">DAU</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="mau_label">MAU</string>
+    <string name="warcs_label">WARCs</string>
+    <string name="wau_label">WAU</string>
+</resources>
